@@ -1,2 +1,0 @@
-# pizzayolo
-Created with CodeSandbox
